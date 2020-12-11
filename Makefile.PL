@@ -23,6 +23,8 @@ my %opts = (
     'Starman' => 0,
     'Set::Object' => 0,
     'namespace::autoclean' => 0,
+    'HTML::Entities' => 0,
+    'Plack::Handler::Twiggy' => 0,
   }
 );
 
